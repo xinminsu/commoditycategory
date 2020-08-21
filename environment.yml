@@ -1,0 +1,10 @@
+name: commditycategory
+
+dependencies:
+  - python=3.7
+  - pip
+
+  - setuptools
+  - twine
+  - wheel
+  - gensim
